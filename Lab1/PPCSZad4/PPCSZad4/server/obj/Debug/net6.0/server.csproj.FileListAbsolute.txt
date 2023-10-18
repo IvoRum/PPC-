@@ -1,0 +1,15 @@
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\bin\Debug\net6.0\server.exe
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\bin\Debug\net6.0\server.deps.json
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\bin\Debug\net6.0\server.runtimeconfig.json
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\bin\Debug\net6.0\server.dll
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\bin\Debug\net6.0\server.pdb
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.dll
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\refint\server.dll
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.pdb
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+D:\9_Predmets\S9\ППC#\Lab1\PPCSZad4\PPCSZad4\server\obj\Debug\net6.0\ref\server.dll
