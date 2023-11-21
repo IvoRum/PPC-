@@ -1,0 +1,2 @@
+C:\Users\ivail\_Spring\PPC-\TestPrep\Prep1\TestPrep\TestPrep\bin\Debug\TestPrep.exe.config
+C:\Users\ivail\_Spring\PPC-\TestPrep\Prep1\TestPrep\TestPrep\obj\Debug\TestPrep.csprojResolveAssemblyReference.cache

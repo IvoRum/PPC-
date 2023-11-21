@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\bin\Debug\net7.0\TESFFS1.exe
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\bin\Debug\net7.0\TESFFS1.deps.json
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\bin\Debug\net7.0\TESFFS1.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\bin\Debug\net7.0\TESFFS1.dll
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\bin\Debug\net7.0\TESFFS1.pdb
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.csproj.AssemblyReference.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.dll
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\refint\TESFFS1.dll
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.pdb
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\TESFFS1.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\TESFFS1\TESFFS1\obj\Debug\net7.0\ref\TESFFS1.dll
