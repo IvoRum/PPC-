@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.csproj.AssemblyReference.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\bin\Debug\net7.0\Kontrolno1.exe
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\bin\Debug\net7.0\Kontrolno1.deps.json
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\bin\Debug\net7.0\Kontrolno1.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\bin\Debug\net7.0\Kontrolno1.dll
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\bin\Debug\net7.0\Kontrolno1.pdb
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.dll
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\refint\Kontrolno1.dll
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.pdb
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\Kontrolno1.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\TestPrep\pREP2\Kontrolno1\Kontrolno1\obj\Debug\net7.0\ref\Kontrolno1.dll
