@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PPC_dom5/1.0.0": {
+        "runtime": {
+          "PPC_dom5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPC_dom5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

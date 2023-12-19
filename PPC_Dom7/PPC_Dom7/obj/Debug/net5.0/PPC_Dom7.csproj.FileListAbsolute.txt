@@ -1,0 +1,16 @@
+C:\Users\35989\source\repos\PPC_Dom7\bin\Debug\net5.0\PPC_Dom7.exe
+C:\Users\35989\source\repos\PPC_Dom7\bin\Debug\net5.0\PPC_Dom7.deps.json
+C:\Users\35989\source\repos\PPC_Dom7\bin\Debug\net5.0\PPC_Dom7.runtimeconfig.json
+C:\Users\35989\source\repos\PPC_Dom7\bin\Debug\net5.0\PPC_Dom7.runtimeconfig.dev.json
+C:\Users\35989\source\repos\PPC_Dom7\bin\Debug\net5.0\PPC_Dom7.dll
+C:\Users\35989\source\repos\PPC_Dom7\bin\Debug\net5.0\ref\PPC_Dom7.dll
+C:\Users\35989\source\repos\PPC_Dom7\bin\Debug\net5.0\PPC_Dom7.pdb
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.csprojAssemblyReference.cache
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.AssemblyInfoInputs.cache
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.AssemblyInfo.cs
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.dll
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\ref\PPC_Dom7.dll
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.pdb
+C:\Users\35989\source\repos\PPC_Dom7\obj\Debug\net5.0\PPC_Dom7.genruntimeconfig.cache

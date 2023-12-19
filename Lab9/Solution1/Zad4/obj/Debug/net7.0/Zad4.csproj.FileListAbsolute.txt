@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\bin\Debug\net7.0\Zad4.exe
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\bin\Debug\net7.0\Zad4.deps.json
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\bin\Debug\net7.0\Zad4.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\bin\Debug\net7.0\Zad4.dll
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\bin\Debug\net7.0\Zad4.pdb
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.csproj.AssemblyReference.cache
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.dll
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\refint\Zad4.dll
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.pdb
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\Zad4.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\Lab9\Solution1\Zad4\obj\Debug\net7.0\ref\Zad4.dll
