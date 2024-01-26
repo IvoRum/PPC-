@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad1", "Zad1\Zad1.csproj", "{CE7FF288-0794-4B15-9631-9456474C1B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad2", "Zad2\Zad2.csproj", "{DE4300CB-5FF3-4FEE-ADB7-E6D39A94E1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad3", "Zad3\Zad3.csproj", "{345640FA-C32E-42EE-817E-D34F3065084E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7FF288-0794-4B15-9631-9456474C1B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7FF288-0794-4B15-9631-9456474C1B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7FF288-0794-4B15-9631-9456474C1B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7FF288-0794-4B15-9631-9456474C1B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4300CB-5FF3-4FEE-ADB7-E6D39A94E1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4300CB-5FF3-4FEE-ADB7-E6D39A94E1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4300CB-5FF3-4FEE-ADB7-E6D39A94E1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4300CB-5FF3-4FEE-ADB7-E6D39A94E1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345640FA-C32E-42EE-817E-D34F3065084E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345640FA-C32E-42EE-817E-D34F3065084E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345640FA-C32E-42EE-817E-D34F3065084E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345640FA-C32E-42EE-817E-D34F3065084E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\bin\Debug\net7.0\Zad13.exe
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\bin\Debug\net7.0\Zad13.deps.json
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\bin\Debug\net7.0\Zad13.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\bin\Debug\net7.0\Zad13.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\bin\Debug\net7.0\Zad13.pdb
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.csproj.AssemblyReference.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\refint\Zad13.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.pdb
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\Zad13.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Zad13\obj\Debug\net7.0\ref\Zad13.dll

@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\bin\Debug\net7.0\BasicMaths.exe
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\bin\Debug\net7.0\BasicMaths.deps.json
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\bin\Debug\net7.0\BasicMaths.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\bin\Debug\net7.0\BasicMaths.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\bin\Debug\net7.0\BasicMaths.pdb
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.csproj.AssemblyReference.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\refint\BasicMaths.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.pdb
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\BasicMaths.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\BasicMaths\obj\Debug\net7.0\ref\BasicMaths.dll

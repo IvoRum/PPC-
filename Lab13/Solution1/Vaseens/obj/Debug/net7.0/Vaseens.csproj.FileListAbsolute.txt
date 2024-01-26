@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\bin\Debug\net7.0\Vaseens.exe
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\bin\Debug\net7.0\Vaseens.deps.json
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\bin\Debug\net7.0\Vaseens.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\bin\Debug\net7.0\Vaseens.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\bin\Debug\net7.0\Vaseens.pdb
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.csproj.AssemblyReference.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\refint\Vaseens.dll
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.pdb
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\Vaseens.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\Lab13\Solution1\Vaseens\obj\Debug\net7.0\ref\Vaseens.dll
