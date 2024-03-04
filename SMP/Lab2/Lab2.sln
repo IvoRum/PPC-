@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad3PhotoArchive", "Zad3PhotoArchive\Zad3PhotoArchive.csproj", "{8A28B7EC-0387-46B9-80A3-5B030EC50C2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad4Turisum", "Zad4Turisum\Zad4Turisum.csproj", "{945B0FFA-BD2D-4685-864F-ECD2E78F2F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upr", "upr\upr.csproj", "{95A20860-FD4A-4278-92DC-990090A030D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{8A28B7EC-0387-46B9-80A3-5B030EC50C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A28B7EC-0387-46B9-80A3-5B030EC50C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A28B7EC-0387-46B9-80A3-5B030EC50C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945B0FFA-BD2D-4685-864F-ECD2E78F2F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945B0FFA-BD2D-4685-864F-ECD2E78F2F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945B0FFA-BD2D-4685-864F-ECD2E78F2F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945B0FFA-BD2D-4685-864F-ECD2E78F2F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A20860-FD4A-4278-92DC-990090A030D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A20860-FD4A-4278-92DC-990090A030D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A20860-FD4A-4278-92DC-990090A030D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A20860-FD4A-4278-92DC-990090A030D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
