@@ -1,0 +1,16 @@
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\bin\Debug\net5.0\Lav1.exe
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\bin\Debug\net5.0\Lav1.deps.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\bin\Debug\net5.0\Lav1.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\bin\Debug\net5.0\Lav1.runtimeconfig.dev.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\bin\Debug\net5.0\Lav1.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\bin\Debug\net5.0\ref\Lav1.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\bin\Debug\net5.0\Lav1.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.csproj.AssemblyReference.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\ref\Lav1.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Lab1\Lav1\Lav1\obj\Debug\net5.0\Lav1.genruntimeconfig.cache
