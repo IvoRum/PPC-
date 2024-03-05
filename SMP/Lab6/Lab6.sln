@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", "{526E2874-30A7-419D-89FF-C29E2E909703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2", "zad2\zad2.csproj", "{5E540454-4291-4495-8E0E-9191E22C4159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526E2874-30A7-419D-89FF-C29E2E909703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526E2874-30A7-419D-89FF-C29E2E909703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526E2874-30A7-419D-89FF-C29E2E909703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526E2874-30A7-419D-89FF-C29E2E909703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E540454-4291-4495-8E0E-9191E22C4159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E540454-4291-4495-8E0E-9191E22C4159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E540454-4291-4495-8E0E-9191E22C4159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E540454-4291-4495-8E0E-9191E22C4159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
