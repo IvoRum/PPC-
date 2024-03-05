@@ -73,5 +73,11 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+<<<<<<< HEAD
+=======
+    <MESSAGE value="цреатед неш" />
+    <MESSAGE value="da" />
+    <option name="LAST_COMMIT_MESSAGE" value="da" />
+>>>>>>> origin/main
   </component>
 </project>
