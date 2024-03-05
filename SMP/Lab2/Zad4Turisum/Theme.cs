@@ -1,6 +1,5 @@
-﻿namespace Zad4Turisum;
 
 public enum Theme
 {
-    
+    Sports,History,Cuisine,Undefined
 }

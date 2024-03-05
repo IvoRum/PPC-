@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zad3PhotoArchive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d054b3d6e2ec012f36f29a118dd9c978809d786b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zad3PhotoArchive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zad3PhotoArchive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
