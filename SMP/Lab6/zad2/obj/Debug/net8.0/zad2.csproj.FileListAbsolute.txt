@@ -1,0 +1,15 @@
+D:\2_Code\PPC-\SMP\Lab6\zad2\bin\Debug\net8.0\zad2.exe
+D:\2_Code\PPC-\SMP\Lab6\zad2\bin\Debug\net8.0\zad2.deps.json
+D:\2_Code\PPC-\SMP\Lab6\zad2\bin\Debug\net8.0\zad2.runtimeconfig.json
+D:\2_Code\PPC-\SMP\Lab6\zad2\bin\Debug\net8.0\zad2.dll
+D:\2_Code\PPC-\SMP\Lab6\zad2\bin\Debug\net8.0\zad2.pdb
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.AssemblyInfoInputs.cache
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.AssemblyInfo.cs
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.csproj.CoreCompileInputs.cache
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.sourcelink.json
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.dll
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\refint\zad2.dll
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.pdb
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\zad2.genruntimeconfig.cache
+D:\2_Code\PPC-\SMP\Lab6\zad2\obj\Debug\net8.0\ref\zad2.dll
