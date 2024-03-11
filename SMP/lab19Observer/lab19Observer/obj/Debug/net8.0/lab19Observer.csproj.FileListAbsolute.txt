@@ -1,0 +1,15 @@
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\bin\Debug\net8.0\lab19Observer.exe
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\bin\Debug\net8.0\lab19Observer.deps.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\bin\Debug\net8.0\lab19Observer.runtimeconfig.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\bin\Debug\net8.0\lab19Observer.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\bin\Debug\net8.0\lab19Observer.pdb
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.AssemblyInfoInputs.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.AssemblyInfo.cs
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.csproj.CoreCompileInputs.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.sourcelink.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\refint\lab19Observer.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.pdb
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\lab19Observer.genruntimeconfig.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab19Observer\lab19Observer\obj\Debug\net8.0\ref\lab19Observer.dll

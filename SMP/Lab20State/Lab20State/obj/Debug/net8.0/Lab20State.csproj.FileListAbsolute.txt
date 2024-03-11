@@ -1,0 +1,15 @@
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\bin\Debug\net8.0\Lab20State.exe
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\bin\Debug\net8.0\Lab20State.deps.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\bin\Debug\net8.0\Lab20State.runtimeconfig.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\bin\Debug\net8.0\Lab20State.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\bin\Debug\net8.0\Lab20State.pdb
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.AssemblyInfoInputs.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.AssemblyInfo.cs
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.csproj.CoreCompileInputs.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.sourcelink.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\refint\Lab20State.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.pdb
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\Lab20State.genruntimeconfig.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\Lab20State\Lab20State\obj\Debug\net8.0\ref\Lab20State.dll

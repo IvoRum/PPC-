@@ -1,0 +1,15 @@
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.AssemblyInfoInputs.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.AssemblyInfo.cs
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.csproj.CoreCompileInputs.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.sourcelink.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\bin\Debug\net8.0\lab21Strategy.exe
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\bin\Debug\net8.0\lab21Strategy.deps.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\bin\Debug\net8.0\lab21Strategy.runtimeconfig.json
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\bin\Debug\net8.0\lab21Strategy.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\bin\Debug\net8.0\lab21Strategy.pdb
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\refint\lab21Strategy.dll
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.pdb
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\lab21Strategy.genruntimeconfig.cache
+C:\Users\irumenov2\RiderProjects\PPC-\SMP\lab21Strategy\lab21Strategy\obj\Debug\net8.0\ref\lab21Strategy.dll
