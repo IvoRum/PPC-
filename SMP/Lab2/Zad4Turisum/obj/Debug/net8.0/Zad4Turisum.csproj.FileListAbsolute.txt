@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\bin\Debug\net8.0\Zad4Turisum.exe
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\bin\Debug\net8.0\Zad4Turisum.deps.json
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\bin\Debug\net8.0\Zad4Turisum.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\bin\Debug\net8.0\Zad4Turisum.dll
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\bin\Debug\net8.0\Zad4Turisum.pdb
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.sourcelink.json
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.dll
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\refint\Zad4Turisum.dll
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.pdb
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\Zad4Turisum.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\SMP\Lab2\Zad4Turisum\obj\Debug\net8.0\ref\Zad4Turisum.dll

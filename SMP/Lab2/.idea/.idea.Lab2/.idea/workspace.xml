@@ -10,13 +10,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2de2c1a8-0dec-4469-925b-36a59507250a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Debug/net5.0/Lab1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Lab1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Lab1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Lab1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/Lab1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/Zad3Balansator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/Zad3Balansator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/Zad3Balansator.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/Zad3Balansator.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/Zad3Balansator.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/Zad3Balansator.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/Lab1/Zad3Balansator/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/shelf/Uncommitted_changes_before_Update_at_5_3_2024___20_39__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/shelf/Uncommitted_changes_before_Update_at_5_3_2024___20_39__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Debug/net8.0/Zad3PhotoArchive.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Zad3PhotoArchive.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Zad3PhotoArchive.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Zad3PhotoArchive.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/Zad3PhotoArchive.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad3PhotoArchive/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Zad3PhotoArchive/obj/project.packagespec.json" afterDir="false" />
@@ -27,7 +47,6 @@
       <change beforePath="$PROJECT_DIR$/Zad4Turisum/obj/Debug/net8.0/Zad4Turisum.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Zad4Turisum/obj/Debug/net8.0/Zad4Turisum.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad4Turisum/obj/Debug/net8.0/Zad4Turisum.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Zad4Turisum/obj/Debug/net8.0/Zad4Turisum.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad4Turisum/obj/Zad4Turisum.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Zad4Turisum/obj/Zad4Turisum.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zad4Turisum/obj/Zad4Turisum.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Zad4Turisum/obj/Zad4Turisum.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad4Turisum/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Zad4Turisum/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad4Turisum/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Zad4Turisum/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zad4Turisum/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Zad4Turisum/obj/project.packagespec.json" afterDir="false" />
@@ -43,7 +62,6 @@
       <change beforePath="$PROJECT_DIR$/upr/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/upr/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upr/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/upr/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upr/obj/upr.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/upr/obj/upr.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upr/obj/upr.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/upr/obj/upr.csproj.nuget.g.props" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +100,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.Zad3PhotoArchive.executor": "Run",
+    ".NET Project.Zad4Turisum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "one__to__whatEver",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,7 +120,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.Zad3PhotoArchive">
+  <component name="RunManager" selected=".NET Project.Zad4Turisum">
     <configuration name="Zad3PhotoArchive" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -166,6 +186,7 @@
       <updated>1709571033228</updated>
       <workItem from="1709571034899" duration="4725000" />
       <workItem from="1709581299675" duration="598000" />
+      <workItem from="1709819477632" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="цреатед неш">
       <option name="closed" value="true" />

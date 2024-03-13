@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dfKDQlSnbkvdppSF3518MDcMDwWfHaXWYCMCYpAKW9rz4ONUZJD46xVwfZ8T1f31FyNsi7EBR3x6x920GHI0xQ==",
+  "dgSpecHash": "FiACGrPdgK4i0RqvjH0T0zJulraSaMPQGIpZrG58ZRqlY9Ia70i8nAwCFmkV9Xk2rSgZ0F93Li2LcKCANUZwug==",
   "success": true,
-  "projectFilePath": "C:\\tomcats\\PPC-\\SMP\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\irumenov2\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\irumenov2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\irumenov2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\irumenov2\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.17\\microsoft.netcore.app.host.win-x86.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Pretend This Is D\\Projects\\PPC-\\SMP\\Lab4\\Lab4.csproj": {}
+    "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab4\\Lab4.csproj": {}
   },
   "projects": {
-    "C:\\Pretend This Is D\\Projects\\PPC-\\SMP\\Lab4\\Lab4.csproj": {
+    "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab4\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pretend This Is D\\Projects\\PPC-\\SMP\\Lab4\\Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab4\\Lab4.csproj",
         "projectName": "Lab4",
-        "projectPath": "C:\\Pretend This Is D\\Projects\\PPC-\\SMP\\Lab4\\Lab4.csproj",
-        "packagesPath": "C:\\Users\\35989\\.nuget\\packages\\",
-        "outputPath": "C:\\Pretend This Is D\\Projects\\PPC-\\SMP\\Lab4\\obj\\",
+        "projectPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab4\\Lab4.csproj",
+        "packagesPath": "C:\\Users\\ivail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\35989\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ivail\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
