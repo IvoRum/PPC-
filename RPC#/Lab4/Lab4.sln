@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultyDelegatCallback", "Mul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atributi", "Atributi\Atributi.csproj", "{70BCC772-F92B-4DE5-829F-8C41DCA02D98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAtributes", "CustomAtributes\CustomAtributes.csproj", "{311A67B6-0974-4822-8225-245F31E627CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{70BCC772-F92B-4DE5-829F-8C41DCA02D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70BCC772-F92B-4DE5-829F-8C41DCA02D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70BCC772-F92B-4DE5-829F-8C41DCA02D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311A67B6-0974-4822-8225-245F31E627CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311A67B6-0974-4822-8225-245F31E627CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311A67B6-0974-4822-8225-245F31E627CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311A67B6-0974-4822-8225-245F31E627CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
