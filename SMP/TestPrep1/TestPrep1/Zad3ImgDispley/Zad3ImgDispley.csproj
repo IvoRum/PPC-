@@ -7,8 +7,4 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\Zad3ImgDispley\Zad3ImgDispley.csproj" />
-    </ItemGroup>
-
 </Project>
