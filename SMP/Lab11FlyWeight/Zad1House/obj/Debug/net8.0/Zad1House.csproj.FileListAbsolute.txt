@@ -1,0 +1,15 @@
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\bin\Debug\net8.0\Zad1House.exe
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\bin\Debug\net8.0\Zad1House.deps.json
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\bin\Debug\net8.0\Zad1House.runtimeconfig.json
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\bin\Debug\net8.0\Zad1House.dll
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\bin\Debug\net8.0\Zad1House.pdb
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.AssemblyInfoInputs.cache
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.AssemblyInfo.cs
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.csproj.CoreCompileInputs.cache
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.sourcelink.json
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.dll
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\refint\Zad1House.dll
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.pdb
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\Zad1House.genruntimeconfig.cache
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad1House\obj\Debug\net8.0\ref\Zad1House.dll

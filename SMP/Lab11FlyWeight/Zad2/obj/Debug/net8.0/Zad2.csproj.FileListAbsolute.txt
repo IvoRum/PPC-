@@ -1,0 +1,15 @@
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\bin\Debug\net8.0\Zad2.exe
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\bin\Debug\net8.0\Zad2.deps.json
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\bin\Debug\net8.0\Zad2.runtimeconfig.json
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\bin\Debug\net8.0\Zad2.dll
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\bin\Debug\net8.0\Zad2.pdb
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.AssemblyInfoInputs.cache
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.AssemblyInfo.cs
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.csproj.CoreCompileInputs.cache
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.sourcelink.json
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.dll
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\refint\Zad2.dll
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.pdb
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\Zad2.genruntimeconfig.cache
+D:\2_Code\PPC-\SMP\Lab11FlyWeight\Zad2\obj\Debug\net8.0\ref\Zad2.dll

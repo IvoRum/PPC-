@@ -1,0 +1,15 @@
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\bin\Debug\net8.0\Zad5Blood.exe
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\bin\Debug\net8.0\Zad5Blood.deps.json
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\bin\Debug\net8.0\Zad5Blood.runtimeconfig.json
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\bin\Debug\net8.0\Zad5Blood.dll
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\bin\Debug\net8.0\Zad5Blood.pdb
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.AssemblyInfoInputs.cache
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.AssemblyInfo.cs
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.csproj.CoreCompileInputs.cache
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.sourcelink.json
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.dll
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\refint\Zad5Blood.dll
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.pdb
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\Zad5Blood.genruntimeconfig.cache
+D:\2_Code\PPC-\SMP\TestPrep1\TestPrep1\Zad5Blood\obj\Debug\net8.0\ref\Zad5Blood.dll
