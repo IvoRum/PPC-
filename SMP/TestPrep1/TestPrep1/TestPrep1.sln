@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad2Imoti", "Zad2Imoti\Zad2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad3ImgDispley", "Zad3ImgDispley\Zad3ImgDispley.csproj", "{5C3D9F6A-0FDE-4A51-A7C2-6132208DDAC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad4EmailsDecorator", "Zad4EmailsDecorator\Zad4EmailsDecorator.csproj", "{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5C3D9F6A-0FDE-4A51-A7C2-6132208DDAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C3D9F6A-0FDE-4A51-A7C2-6132208DDAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C3D9F6A-0FDE-4A51-A7C2-6132208DDAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
