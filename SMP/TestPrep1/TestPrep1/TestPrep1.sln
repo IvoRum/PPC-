@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad3ImgDispley", "Zad3ImgDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad4EmailsDecorator", "Zad4EmailsDecorator\Zad4EmailsDecorator.csproj", "{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad5Blood", "Zad5Blood\Zad5Blood.csproj", "{B7EE2F4B-008B-464E-92F3-3DF42929D810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E960CDB-4372-4412-BAD2-35CDB3C9F4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EE2F4B-008B-464E-92F3-3DF42929D810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EE2F4B-008B-464E-92F3-3DF42929D810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EE2F4B-008B-464E-92F3-3DF42929D810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EE2F4B-008B-464E-92F3-3DF42929D810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
