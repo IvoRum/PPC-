@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\irumenov2\\.nuget\\packages\\": {}
+    "C:\\Users\\ivail\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab17Mediator\\Lab17Mediator\\Lab17Mediator.csproj",
+      "projectUniqueName": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab17Mediator\\Lab17Mediator\\Lab17Mediator.csproj",
       "projectName": "Lab17Mediator",
-      "projectPath": "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab17Mediator\\Lab17Mediator\\Lab17Mediator.csproj",
-      "packagesPath": "C:\\Users\\irumenov2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab17Mediator\\Lab17Mediator\\obj\\",
+      "projectPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab17Mediator\\Lab17Mediator\\Lab17Mediator.csproj",
+      "packagesPath": "C:\\Users\\ivail\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab17Mediator\\Lab17Mediator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\irumenov2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ivail\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

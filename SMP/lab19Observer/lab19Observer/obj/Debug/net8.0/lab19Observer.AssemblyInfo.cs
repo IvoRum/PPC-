@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab19Observer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdc35baf2908b73a0330a10c76769de5b3653d3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cae24e653bf740f04d40a7fcff48c30214c5a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab19Observer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab19Observer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

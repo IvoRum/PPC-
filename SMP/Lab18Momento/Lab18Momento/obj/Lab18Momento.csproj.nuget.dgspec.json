@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj": {}
+    "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj": {
+    "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj",
+        "projectUniqueName": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj",
         "projectName": "Lab18Momento",
-        "projectPath": "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj",
-        "packagesPath": "C:\\Users\\irumenov2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irumenov2\\RiderProjects\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\obj\\",
+        "projectPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\Lab18Momento.csproj",
+        "packagesPath": "C:\\Users\\ivail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\Lab18Momento\\Lab18Momento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\irumenov2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ivail\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

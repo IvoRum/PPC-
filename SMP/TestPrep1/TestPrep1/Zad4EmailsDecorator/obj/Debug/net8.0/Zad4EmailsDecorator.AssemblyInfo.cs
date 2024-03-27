@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zad4EmailsDecorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b216936ce9cf2a472bfb700a8376495b22cb6c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zad4EmailsDecorator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zad4EmailsDecorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2_Code\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj": {}
+    "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj": {}
   },
   "projects": {
-    "D:\\2_Code\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj": {
+    "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2_Code\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj",
+        "projectUniqueName": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj",
         "projectName": "Zad2Imoti",
-        "projectPath": "D:\\2_Code\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj",
+        "projectPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\Zad2Imoti.csproj",
         "packagesPath": "C:\\Users\\ivail\\.nuget\\packages\\",
-        "outputPath": "D:\\2_Code\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\obj\\",
+        "outputPath": "C:\\Users\\ivail\\_Spring\\PPC-\\SMP\\TestPrep1\\TestPrep1\\Zad2Imoti\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivail\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\ivail\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

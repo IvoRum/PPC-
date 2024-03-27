@@ -80,7 +80,7 @@ static class Program {
             int command = r.Next(3); 
             Console.Write(context.Request(command)+" "); 
         } 
-        Console.WriteLine(); 
+        Console.WriteLine();
     } 
 
 }
