@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad1Otpusk", "Zad1Otpusk\Zad1Otpusk.csproj", "{41EECC20-3740-461F-9143-768A9FACAD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad2ExpostImportData", "Zad2ExpostImportData\Zad2ExpostImportData.csproj", "{577B9455-60F8-4B0F-ADF0-27B654CA8E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad3ImgDisplay", "Zad3ImgDisplay\Zad3ImgDisplay.csproj", "{D1430840-7F73-4380-8D1A-E3D3B7B87B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41EECC20-3740-461F-9143-768A9FACAD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EECC20-3740-461F-9143-768A9FACAD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EECC20-3740-461F-9143-768A9FACAD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EECC20-3740-461F-9143-768A9FACAD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577B9455-60F8-4B0F-ADF0-27B654CA8E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577B9455-60F8-4B0F-ADF0-27B654CA8E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577B9455-60F8-4B0F-ADF0-27B654CA8E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577B9455-60F8-4B0F-ADF0-27B654CA8E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1430840-7F73-4380-8D1A-E3D3B7B87B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1430840-7F73-4380-8D1A-E3D3B7B87B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1430840-7F73-4380-8D1A-E3D3B7B87B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1430840-7F73-4380-8D1A-E3D3B7B87B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

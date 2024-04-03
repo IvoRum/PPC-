@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\bin\Debug\net8.0\Zad1Otpusk.exe
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\bin\Debug\net8.0\Zad1Otpusk.deps.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\bin\Debug\net8.0\Zad1Otpusk.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\bin\Debug\net8.0\Zad1Otpusk.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\bin\Debug\net8.0\Zad1Otpusk.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.sourcelink.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\refint\Zad1Otpusk.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\Zad1Otpusk.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad1Otpusk\obj\Debug\net8.0\ref\Zad1Otpusk.dll

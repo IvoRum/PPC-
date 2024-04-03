@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\bin\Debug\net8.0\SimpleExampleFlag.exe
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\bin\Debug\net8.0\SimpleExampleFlag.deps.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\bin\Debug\net8.0\SimpleExampleFlag.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\bin\Debug\net8.0\SimpleExampleFlag.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\bin\Debug\net8.0\SimpleExampleFlag.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.sourcelink.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\refint\SimpleExampleFlag.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\SimpleExampleFlag.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Threds\SimpleExampleFlag\obj\Debug\net8.0\ref\SimpleExampleFlag.dll

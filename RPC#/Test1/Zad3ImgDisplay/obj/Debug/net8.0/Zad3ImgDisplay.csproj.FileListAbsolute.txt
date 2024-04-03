@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\bin\Debug\net8.0\Zad3ImgDisplay.exe
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\bin\Debug\net8.0\Zad3ImgDisplay.deps.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\bin\Debug\net8.0\Zad3ImgDisplay.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\bin\Debug\net8.0\Zad3ImgDisplay.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\bin\Debug\net8.0\Zad3ImgDisplay.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.sourcelink.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\refint\Zad3ImgDisplay.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\Zad3ImgDisplay.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad3ImgDisplay\obj\Debug\net8.0\ref\Zad3ImgDisplay.dll

@@ -1,0 +1,15 @@
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\bin\Debug\net8.0\Zad2ExpostImportData.exe
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\bin\Debug\net8.0\Zad2ExpostImportData.deps.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\bin\Debug\net8.0\Zad2ExpostImportData.runtimeconfig.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\bin\Debug\net8.0\Zad2ExpostImportData.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\bin\Debug\net8.0\Zad2ExpostImportData.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.AssemblyInfoInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.AssemblyInfo.cs
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.csproj.CoreCompileInputs.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.sourcelink.json
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\refint\Zad2ExpostImportData.dll
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.pdb
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\Zad2ExpostImportData.genruntimeconfig.cache
+C:\Users\ivail\_Spring\PPC-\RPC#\Test1\Zad2ExpostImportData\obj\Debug\net8.0\ref\Zad2ExpostImportData.dll

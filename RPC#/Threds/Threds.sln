@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExampleFlag", "SimpleExampleFlag\SimpleExampleFlag.csproj", "{5D4B6473-08A9-47C5-BEB8-993EE735B468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionExample", "TransactionExample\TransactionExample.csproj", "{61A59846-51DF-4961-B13C-B0A4A16BAC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4B6473-08A9-47C5-BEB8-993EE735B468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4B6473-08A9-47C5-BEB8-993EE735B468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4B6473-08A9-47C5-BEB8-993EE735B468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4B6473-08A9-47C5-BEB8-993EE735B468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A59846-51DF-4961-B13C-B0A4A16BAC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A59846-51DF-4961-B13C-B0A4A16BAC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A59846-51DF-4961-B13C-B0A4A16BAC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A59846-51DF-4961-B13C-B0A4A16BAC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
