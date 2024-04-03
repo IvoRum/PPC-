@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExampleFlag", "Simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionExample", "TransactionExample\TransactionExample.csproj", "{61A59846-51DF-4961-B13C-B0A4A16BAC0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBar", "ProgressBar\ProgressBar.csproj", "{BCA2D68E-83DA-4CB8-AB36-3AA76E8D2975}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{61A59846-51DF-4961-B13C-B0A4A16BAC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61A59846-51DF-4961-B13C-B0A4A16BAC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61A59846-51DF-4961-B13C-B0A4A16BAC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA2D68E-83DA-4CB8-AB36-3AA76E8D2975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA2D68E-83DA-4CB8-AB36-3AA76E8D2975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA2D68E-83DA-4CB8-AB36-3AA76E8D2975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA2D68E-83DA-4CB8-AB36-3AA76E8D2975}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
