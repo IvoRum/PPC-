@@ -1,0 +1,15 @@
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\bin\Debug\net8.0\Zad1.exe
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\bin\Debug\net8.0\Zad1.deps.json
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\bin\Debug\net8.0\Zad1.runtimeconfig.json
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\bin\Debug\net8.0\Zad1.dll
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\bin\Debug\net8.0\Zad1.pdb
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfoInputs.cache
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfo.cs
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.csproj.CoreCompileInputs.cache
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.sourcelink.json
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.dll
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\refint\Zad1.dll
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.pdb
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\Zad1.genruntimeconfig.cache
+D:\2_Code\PPC-\SMP\TestPrep2\KontrolnoVarian1\Zad1\obj\Debug\net8.0\ref\Zad1.dll
